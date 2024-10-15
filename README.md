@@ -1,6 +1,6 @@
-### Document: How to Delete Docker Images by Tag Name and Create a Daily Cron Job
+## Document: How to Delete Docker Images by Tag Name and Create a Daily Cron Job
 
-#### Objective:
+### Objective:
 This document outlines the steps to delete Docker images with specific tags and create a cron job to execute this operation daily. We will specifically delete Docker images with tags matching the pattern `:dev-` (e.g., `gcr.io/my-registry/app1:dev-v1`).
 
 ---
